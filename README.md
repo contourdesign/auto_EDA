@@ -1,6 +1,7 @@
 # auto_EDA
 automated exploratory data analytic tool. Just upload a csv!
 
-conda activate eda
+to run,
+-conda activate eda
 
-streamlit run app.py
+-streamlit run app.py
